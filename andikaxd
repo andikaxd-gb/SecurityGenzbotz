@@ -1,0 +1,12 @@
+{
+  "username": [
+    "admin"
+  ],
+  "password": "admin",
+  "owners": [
+    "6282177244614"
+  ],
+  "allowedIPs": [
+    "139.59.102.47"
+  ]
+}
